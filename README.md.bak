@@ -50,14 +50,6 @@ MVC开发模式
 等等；
 后续可以继续追加；
 
-其实，web组件这方面我想了很多，这里的组件意义比较广泛，也导致我无从下手，在这儿停留了很长时间；
-w3c定义的Web Components(纯js,css,html操作)，但现在还不够成熟，具体的我也不是很清楚，了解更多信息可以点击[webcomponents官网](http://webcomponents.org/)
-而对于当下以及和我们的开发环境web Components(php,js,css,html)
-通常意思上我们称它为模块；
-
-
-
-
 ###四.交互与动画(svg,canvas,css3,贝塞尔曲线)
 svg介绍，svg使用，svg场景                                   
 canvas介绍，使用，场景																	
@@ -73,8 +65,6 @@ ps了解,切图，icon制作，移动平台尺寸[尺寸](http://chicun.in/index
 通过github搭建一个属于自己的博客，来掌握git,markdown等知识；
 
 ###八.资源总结
-
-
 
 ###九.新的开发语言(前端模板,sass,nodejs,mongoDB)
 
